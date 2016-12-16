@@ -1,0 +1,22 @@
+/*
+Theme Name: Grayscale-WP
+Theme URI: https://github.com/benrhine/grayscale
+Author: Ben Rhine
+Author URI: https://github.com/benrhine
+Description: Wordpress theme port of StartBootstrap grayscale template (http://startbootstrap.com/template-overviews/grayscale/)
+Version: 1.0
+License: MIT License
+License URI: http://opensource.org/licenses/MIT
+Tags: bootstrap
+*/
+
+/*
+ * To make this a proper WordPress Theme and to ensure that everything works properly we declare all the css imports here as the style.css
+ * will be loaded automatically by a function in the functions.php
+ */
+
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+@import url('css/grayscale.min.css');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
